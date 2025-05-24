@@ -13,4 +13,11 @@ How to use
             .process("other", "other phrase");
 ```
 
+```$ javac MyApp/MyApp.java && java MyApp/MyApp``` outputs 
+
+```
+Test route: some test sentence
+Hello, other phrase
+```
+
 See the example in MyApp folder
